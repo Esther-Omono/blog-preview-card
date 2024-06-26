@@ -28,7 +28,7 @@ The challenge was to create a blog preview card component that is visually appea
 ### Links
 
 - Solution URL: [My Solution]()
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://blog-preview-card-estheromonos-projects.vercel.app/)
 
 ## Project Structure
 
