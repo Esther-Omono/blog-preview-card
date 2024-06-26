@@ -73,7 +73,7 @@ cd blog-preview-card
 
 ### Built With
 
-- HTML
+- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
