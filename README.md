@@ -27,7 +27,7 @@ The challenge was to create a blog preview card component that is visually appea
 
 ### Links
 
-- Solution URL: [My Solution]()
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-html-and-css-mvqcz9p_G4)
 - Live Site URL: [Live Site](https://blog-preview-card-estheromonos-projects.vercel.app/)
 
 ## Project Structure
